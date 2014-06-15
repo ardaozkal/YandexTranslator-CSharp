@@ -1,0 +1,11 @@
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\OnlineSubs.exe.config
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.csprojResolveAssemblyReference.cache
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.Form1.resources
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.Properties.Resources.resources
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.csproj.GenerateResource.Cache
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\OnlineSubs.exe
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\OnlineSubs.pdb
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.exe
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.pdb
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\YandexTranslate.dll
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\YandexTranslate.pdb

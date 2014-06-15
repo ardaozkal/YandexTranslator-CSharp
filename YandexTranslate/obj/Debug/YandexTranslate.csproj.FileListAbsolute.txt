@@ -1,0 +1,5 @@
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\YandexTranslate\bin\Debug\YandexTranslate.dll
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\YandexTranslate\bin\Debug\YandexTranslate.pdb
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\YandexTranslate\obj\Debug\YandexTranslate.dll
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\YandexTranslate\obj\Debug\YandexTranslate.pdb
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\YandexTranslate\obj\Debug\YandexTranslate.csprojResolveAssemblyReference.cache

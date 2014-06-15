@@ -1,0 +1,22 @@
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\OnlineSubs.exe.config
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\OnlineSubs.exe
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\OnlineSubs.pdb
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\YandexTranslate.dll
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\bin\Debug\YandexTranslate.pdb
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\YandexTranslator-CSharp-Example.csprojResolveAssemblyReference.cache
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.Form1.resources
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.Properties.Resources.resources
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\YandexTranslator-CSharp-Example.csproj.GenerateResource.Cache
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.exe
+c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.pdb
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\OnlineSubs.exe.config
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.exe
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.pdb
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\OnlineSubs.exe
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\OnlineSubs.pdb
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\YandexTranslate.dll
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\YandexTranslate.pdb
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslator-CSharp-Example.csprojResolveAssemblyReference.cache
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.Form1.resources
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.Properties.Resources.resources
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslator-CSharp-Example.csproj.GenerateResource.Cache
