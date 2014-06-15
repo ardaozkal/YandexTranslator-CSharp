@@ -66,5 +66,10 @@ namespace YandexTranslatorExample
                 label2.Text = "Error! Error's key: " + outputkey;
             }
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            System.Diagnostics.Process.Start("http://translate.yandex.com/");
+        }
     }
 }
