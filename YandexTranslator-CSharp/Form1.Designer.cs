@@ -1,4 +1,4 @@
-﻿namespace OnlineSubs
+﻿namespace YandexTranslatorExample
 {
     partial class Form1
     {

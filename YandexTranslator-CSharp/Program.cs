@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace OnlineSubs
+namespace YandexTranslatorExample
 {
     static class Program
     {

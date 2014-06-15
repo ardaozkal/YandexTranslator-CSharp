@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using YandexTranslate;
 
-namespace OnlineSubs
+namespace YandexTranslatorExample
 {
     public partial class Form1 : Form
     {

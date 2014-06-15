@@ -9,14 +9,14 @@ c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\De
 c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\YandexTranslator-CSharp-Example.csproj.GenerateResource.Cache
 c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.exe
 c:\users\arda\documents\visual studio 2013\Projects\OnlineSubs\OnlineSubs\obj\Debug\OnlineSubs.pdb
-D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\OnlineSubs.exe.config
-D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.exe
-D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.pdb
-D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\OnlineSubs.exe
-D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\OnlineSubs.pdb
 D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\YandexTranslate.dll
 D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\YandexTranslate.pdb
 D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslator-CSharp-Example.csprojResolveAssemblyReference.cache
-D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.Form1.resources
-D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\OnlineSubs.Properties.Resources.resources
 D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslator-CSharp-Example.csproj.GenerateResource.Cache
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\YandexTranslator.exe.config
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\YandexTranslator.exe
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\bin\Debug\YandexTranslator.pdb
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslatorExample.Form1.resources
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslatorExample.Properties.Resources.resources
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslator.exe
+D:\YandexTranslator-CSharp\YandexTranslator-CSharp\obj\Debug\YandexTranslator.pdb
